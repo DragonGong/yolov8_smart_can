@@ -63,10 +63,10 @@ nano/
 
 ### `nano/` 目录脚本
 
-- `nano/various_cv.py`：多目标视觉流程，建议优先阅读与扩展。
+- `nano/various_cv.py`：多目标视觉流程。
 - `nano/yolo_module.py`：YOLO 推理封装模块。
 - `nano/UI.py`：界面展示与交互逻辑。
-- `nano/cv_module.py`：早期视觉代码，建议按需求重构。
+- `nano/cv_module.py`：早期视觉代码。
 
 ---
 
